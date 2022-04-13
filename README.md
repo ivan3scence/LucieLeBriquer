@@ -1,9 +1,9 @@
 <div align="center">
    <a href="https://lucie-lebriquer.fr" target="_blank" rel="noreferrer"><img width="80%" src="https://user-images.githubusercontent.com/62182315/163256584-1e862771-262f-4a17-9018-fa0ea17c5beb.png" alt="my banner"></a>
   </div>
-<p align="center">
+<h3 align="center">
    Student @42School Paris
-</p>
+</h3>
 </br>
 
 ## :computer: Technical Skills
