@@ -33,6 +33,7 @@
 
 ### 📂 42 main projects
 [![miniRT](https://github-readme-stats.vercel.app/api/pin/?username=LucieLeBriquer&repo=miniRT&theme=vue-dark&hide_border=true)](https://github.com/LucieLeBriquer/miniRT.git)
+[![miniShell](https://github-readme-stats.vercel.app/api/pin/?username=LucieLeBriquer&repo=minishell&theme=vue-dark&hide_border=true)](https://github.com/LucieLeBriquer/minishell.git)
 
 ### 📈 42 Stats
 
