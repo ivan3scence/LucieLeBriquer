@@ -6,7 +6,7 @@
 </h3>
 </br>
 
-## :computer: Technical Skills
+## 💻 Technical Skills
 
 ![Cpp](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&color=blue)
@@ -22,12 +22,18 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=black)
 
-## :bar_chart: GitHub Stats
+## 📊 GitHub Stats
 
-[![Languages](https://github-readme-stats.vercel.app/api?username=LucieLeBriquer&show_icons=true&theme=dracula&hide_border=true)](https://github.com/LucieLeBriquer)
+![Languages](https://github-readme-stats.vercel.app/api?username=LucieLeBriquer&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&hide=issues&card_width=300)
 
-[![Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=LucieLeBriquer&layout=compact&hide=roff&langs_count=8&show_icons=true&theme=dracula&hide_border=true)](https://github.com/LucieLeBriquer)
+![Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=LucieLeBriquer&layout=compact&hide=roff&langs_count=8&show_icons=true&theme=vue-dark&hide_border=true)
 
-## :chart_with_upwards_trend: 42 Stats 
+
+## 👩‍🎓 42
+
+### 📂 42 main projects
+[![miniRT](https://github-readme-stats.vercel.app/api/pin/?username=LucieLeBriquer&repo=miniRT&theme=vue-dark&hide_border=true)](https://github.com/LucieLeBriquer/miniRT.git)
+
+### 📈 42 Stats
 
 ![42](https://badge42.vercel.app/api/v2/cl1xkaf8p003509mkw69szf0v/stats?cursusId=21&coalitionId=48)
