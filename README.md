@@ -22,10 +22,11 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=black)
 
-## :bar_chart: GitHub Stats 
+## :bar_chart: GitHub Stats
 
-[![Languages](https://github-readme-stats.vercel.app/api?username=LucieLeBriquer)](https://github.com/LucieLeBriquer)
-[![Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=LucieLeBriquer&layout=compact&hide=roff&langs_count=8)](https://github.com/LucieLeBriquer)
+[![Languages](https://github-readme-stats.vercel.app/api?username=LucieLeBriquer&show_icons=true&theme=dracula&hide_border=true)](https://github.com/LucieLeBriquer)
+
+[![Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=LucieLeBriquer&layout=compact&hide=roff&langs_count=8&show_icons=true&theme=dracula&hide_border=true)](https://github.com/LucieLeBriquer)
 
 ## :chart_with_upwards_trend: 42 Stats 
 
