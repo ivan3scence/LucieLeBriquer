@@ -1,7 +1,7 @@
 <h2 align="center">
-   Student @ 42 Paris
-   <br>
-   <a href="https://lucie-lebriquer.fr">My site</a>
+   <a href="https://lucie-lebriquer.fr" target="_blank" rel="noreferrer"><img width="80%" src="https://user-images.githubusercontent.com/62182315/163256584-1e862771-262f-4a17-9018-fa0ea17c5beb.png" alt="my banner"></a>
+</br>
+   Student @ 42Paris
 </h2>
 
 ## :computer: Technical Skills
