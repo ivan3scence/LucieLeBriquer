@@ -33,6 +33,7 @@
 
 ### 📂 42 main projects
 [![webserv](https://github-readme-stats.vercel.app/api/pin/?username=LucieLeBriquer&repo=webserv&theme=vue-dark&hide_border=true)](https://github.com/LucieLeBriquer/webserv)
+[![ft_containers](https://github-readme-stats.vercel.app/api/pin/?username=LucieLeBriquer&repo=ft_containers&theme=vue-dark&hide_border=true)](https://github.com/LucieLeBriquer/ft_containers)
 [![piscineCPP](https://github-readme-stats.vercel.app/api/pin/?username=LucieLeBriquer&repo=piscineCPP&theme=vue-dark&hide_border=true)](https://github.com/LucieLeBriquer/piscineCPP)
 [![miniRT](https://github-readme-stats.vercel.app/api/pin/?username=LucieLeBriquer&repo=miniRT&theme=vue-dark&hide_border=true)](https://github.com/LucieLeBriquer/miniRT)
 [![miniShell](https://github-readme-stats.vercel.app/api/pin/?username=LucieLeBriquer&repo=minishell&theme=vue-dark&hide_border=true)](https://github.com/LucieLeBriquer/minishell)
