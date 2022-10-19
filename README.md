@@ -44,3 +44,5 @@
 ### 📈 42 Stats
 
 ![42](https://badge42.vercel.app/api/v2/cl1xkaf8p003509mkw69szf0v/stats?cursusId=21&coalitionId=48)
+
+###ZALUPA_BLYAT' TI
